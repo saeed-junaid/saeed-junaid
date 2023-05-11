@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeed-junaid
 - 👀 I’m interested in Photography, Traveling, Reading
-- 🌱 I’m currently learning Pytho and Javascript
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? You can reach me at "Saeed.junaid95@gmail.com"
 
